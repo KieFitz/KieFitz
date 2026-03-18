@@ -1,6 +1,6 @@
 # Kieran Fitzgerald
 
-Fullstack developer based in Madrid, originally from Ireland. Self-taught over five years of building production software, primarily for the **transport and logistics industry**, following a background in technical account management.
+I'm a Fullstack developer based in Madrid, originally from Ireland. With over five years of building production software, primarily for the **transport and logistics industry**, following a background in technical account management.
 
 I founded my own software company and have delivered applications currently in use by multinational clients. My work tends to sit at the intersection of operational complexity and software — scheduling, routing, compliance, telematics — domains where precision and reliability matter.
 
