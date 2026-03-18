@@ -1,16 +1,56 @@
-## Hi there 👋
+# Kieran Fitzgerald
 
-<!--
-**KieFitz/KieFitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack developer based in Madrid, originally from Ireland. Self-taught over five years of building production software, primarily for the **transport and logistics industry**, following a background in technical account management.
 
-Here are some ideas to get you started:
+I founded my own software company and have delivered applications currently in use by multinational clients. My work tends to sit at the intersection of operational complexity and software — scheduling, routing, compliance, telematics — domains where precision and reliability matter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fluent in English and Spanish.
+
+---
+
+## Current Projects
+
+**CascadeScheduler Enterprise**
+Extending my shift scheduling SaaS into a full enterprise product with multi-tenant isolation, advanced constraint modelling, and industry-specific templates.
+
+**Last-Mile Route Optimisation**
+A constraint-based routing solver and application for the transport industry. This builds on four years of enterprise route optimisation work from my previous role, where I delivered a bespoke platform for a major logistics client.
+
+---
+
+## Selected Work
+
+**[EascaDesk Scheduler Lite](https://github.com/KieFitz/eascadeskSchedulerLite)**
+Employee shift scheduling SaaS powered by the Timefold constraint solver. Users upload an Excel template defining staff, availability, and shifts — the solver assigns employees optimally and returns a formatted schedule in seconds. Built with FastAPI, React, PostgreSQL, and Stripe. Deployed on AWS via Docker and Nginx.
+
+**Hotdesk Booking System (EascaDesk)** *(private — in production)*
+A workspace booking application for hybrid teams, currently in use at a multinational client. Contracted and delivered through my own company. Built with Django.
+
+**Tachograph Compliance & Telematics Reporting** *(proprietary)*
+Bespoke reporting tools integrating with the Wialon and Navixy telematics platforms. Ingests raw telematics data, cleans and normalises it, and produces accurate compliance reports for transport operators. Developed during my previous role — code is employer-owned. The [Navixy driver binding script](https://github.com/KieFitz/navixy_automated_driver_binding) on this profile reflects a portion of that work.
+
+---
+
+## Technical Skills
+
+| Area | Technologies |
+|---|---|
+| Backend | Python, FastAPI, Django, SQLAlchemy, PostgreSQL |
+| Frontend | React, Vite, Tailwind CSS |
+| Infrastructure | Docker, Nginx, AWS (EC2, S3, CloudFront, RDS), Cloudflare |
+| Integrations | Stripe, Timefold, Navixy API, Wialon API |
+| Domain | Transport & logistics, workforce scheduling, route optimisation, telematics, tachograph |
+
+---
+
+## Background
+
+Before moving into software development I worked as a technical account manager, which shaped how I approach building products. I start from the operational problem — how a team actually works, where the friction is, what they already use — before considering the technical solution. Most of the software I have built has been adopted without requiring process change from the people using it.
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kieran%20Fitzgerald-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kieran-fitzgerald-243b9a148/)
+
+Open to fullstack and backend roles across any industry. My background is in transport and logistics, but the skills — API design, constraint solving, systems integration, building production software that non-technical users actually adopt — transfer readily. I am comfortable picking up new domains quickly and have a track record of doing so.
