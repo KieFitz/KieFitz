@@ -26,6 +26,9 @@ Employee shift scheduling SaaS powered by the Timefold constraint solver. Users 
 **Hotdesk Booking System (EascaDesk)** *(private — in production)*
 A workspace booking application for hybrid teams, currently in use at a multinational client. Contracted and delivered through my own company. Built with Django.
 
+**[Acme Dental Agent](https://github.com/KieFitz/acmeDentalAgent)**
+An AI-powered receptionist agent built as part of a technical assessment. Aria handles appointment booking, cancellations, and clinic FAQs via a chat interface. Built with LangGraph and Google Gemini 2.0 Flash, backed by a FastAPI service and the Calendly API. Includes a PIN-based patient verification system with bcrypt hashing and lockout, input guardrails against prompt injection and off-topic requests, async email confirmations, and an admin dashboard for reviewing and flagging conversation transcripts.
+
 **Tachograph Compliance & Telematics Reporting** *(proprietary)*
 Bespoke reporting tools integrating with the Wialon and Navixy telematics platforms. Ingests raw telematics data, cleans and normalises it, and produces accurate compliance reports for transport operators. Developed during my previous role — code is employer-owned. The [Navixy driver binding script](https://github.com/KieFitz/navixy_automated_driver_binding) on this profile reflects a portion of that work.
 
@@ -38,7 +41,8 @@ Bespoke reporting tools integrating with the Wialon and Navixy telematics platfo
 | Backend | Python, FastAPI, Django, SQLAlchemy, PostgreSQL |
 | Frontend | React, Vite, Tailwind CSS |
 | Infrastructure | Docker, Nginx, AWS (EC2, S3, CloudFront, RDS), Cloudflare |
-| Integrations | Stripe, Timefold, Navixy API, Wialon API |
+| AI and Agents | LangGraph, Google Gemini, LangChain |
+| Integrations | Stripe, Timefold, Navixy API, Wialon API, Calendly API |
 | Domain | Transport & logistics, workforce scheduling, route optimisation, telematics, tachograph |
 
 ---
