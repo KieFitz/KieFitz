@@ -10,7 +10,7 @@ Fluent in English and Spanish.
 
 ## Current Projects
 
-**CascadeScheduler Enterprise**
+**Eascadesk Scheduler Enterprise**
 Extending my shift scheduling SaaS into a full enterprise product with multi-tenant isolation, advanced constraint modelling, and industry-specific templates.
 
 **Last-Mile Route Optimisation**
